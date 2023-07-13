@@ -1,4 +1,5 @@
 ### Swift Lexical Analyzer
+###### Lexical analyzer made as an assignment for the discipline of Programming Paradigms.
 - ### Headers
     - stdio.h
     - string.h
